@@ -1,2 +1,2 @@
-to store ranom learning projects
+to store random learning projects
 # DL-random
